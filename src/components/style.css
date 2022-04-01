@@ -205,3 +205,11 @@ p.situation span {
 
 }
 
+@media (max-width: 470px) {
+    html {
+        font-size: 35%;
+    }
+
+
+}
+
